@@ -489,7 +489,6 @@ body {
 
 .foot-sub-div {
   padding: 0;
-  gap: 24px;
   display: block;
   width: 453px;
 }
@@ -507,6 +506,7 @@ body {
   display: flex;
   align-items: center;
   padding-left: 0;
+  gap: 24px;
 }
 
 .foot-lab-inp {
@@ -524,7 +524,6 @@ body {
   padding: 8px 0 8px 16px;
   background-color: var(--section-text-color);
   margin: 0;
-  margin-right: 24px;
 }
 
 .foot-btn {
