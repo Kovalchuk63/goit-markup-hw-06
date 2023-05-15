@@ -492,7 +492,6 @@ body {
   display: block;
   width: 453px;
   margin: 0;
-
 }
 
 .foot-p {
@@ -531,13 +530,12 @@ body {
 .foot-lab-inp::placeholder {
   color: #ffffff;
   font-weight: 400;
-font-size: 12px;
-line-height: 2;
-letter-spacing: 0.04em;
-display: flex;
-align-items: center;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.04em;
+  display: flex;
+  align-items: center;
 }
-
 
 .foot-btn {
   display: flex;
@@ -828,7 +826,6 @@ img {
   transform: translateY(-50%);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: var(--section-text-color);
-
 }
 
 .modal-input:focus + .modal-svg {
